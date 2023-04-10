@@ -1,0 +1,1 @@
+SELECT * FROM vaccine_system.productvaccine;
